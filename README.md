@@ -15,6 +15,10 @@
 - Hiddify APP：https://github.com/hiddify/hiddify-next/releases
 - FlClash：https://github.com/chen08209/FlClash/releases/tag/v0.8.91
 
+# IOS 客户端
+
+- Shadowrocket（小火箭）：https://apps.apple.com/hk/app/shadowrocket/id932747118
+
 # Windows软件下载
 
 - v2rayN 软件：https://github.com/2dust/v2rayN/releases/tag/7.16.6
