@@ -2,6 +2,7 @@
 翻墙有两种方式：
 - （1）下载VPN，直接上网（适合人群：不想折腾、希望即装即用）
 - （2）机场 + 客户端（速度快、价格比VPN更便宜、节点选择多，但安装麻烦）
+- 教程：https://medium.com/@jiamigou/seeker手机激活-手机共享翻墙教程-eebc15bce1de
 - 这里所有资料，都是根据方式二编撰
 - 我使用的客户端是Clash ，机场是闪电猫：https://webinv02.sc-aff.cc/auth/register?code=s0KNwhdr
 
